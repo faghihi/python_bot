@@ -1,5 +1,5 @@
 #This is our token
-TOKEN = "350741737:AAEhdPKX9wjjE3eCTDBocXrOANy2rfd6Yow"
+TOKEN = "376682828:AAE79WT571kMAmUk77iD3KJIni0ml7xixEs"
 
 #these are our strings
 startS = "به بات ما خوش آمدید لطفا نام خود را وارد کنین"
